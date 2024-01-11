@@ -1,1 +1,2 @@
-hola
+String persona;
+int 0;
